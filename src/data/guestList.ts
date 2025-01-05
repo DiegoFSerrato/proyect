@@ -277,8 +277,8 @@ export const guestGroups: GuestGroup[] = [
   {
     id: '43',
     type: 'individual',
-    mainGuest: 'Betsaida Berrios',
-    familyMembers: ['Betsaida Berrios']
+    mainGuest: 'Betzaida Berrios',
+    familyMembers: ['Betzaida Berrios']
   },
   {
     id: '44',
