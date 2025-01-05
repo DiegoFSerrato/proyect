@@ -45,17 +45,15 @@ export const guestGroups: GuestGroup[] = [
   },
   {
     id: '7',
-    type: 'individual-plus-one',
-    mainGuest: 'Miguel Angel Serrato',
-    familyMembers: ['Miguel Angel Serrato'],
-    companionAllowed: true
+    type: 'individual',
+    mainGuest: 'Miguel Serrato jr',
+    familyMembers: ['Miguel Serrato jr']
   },
   {
     id: '8',
-    type: 'individual-plus-one',
+    type: 'individual',
     mainGuest: 'Fatima Serrato',
-    familyMembers: ['Fatima Serrato'],
-    companionAllowed: true
+    familyMembers: ['Fatima Serrato']
   },
   {
     id: '9',
@@ -291,6 +289,13 @@ export const guestGroups: GuestGroup[] = [
     type: 'individual',
     mainGuest: 'Hugo Tejada',
     familyMembers: ['Hugo Tejada','+5 Acompañantes']
+  },
+  {
+    id: '45',
+    type: 'individual-plus-one',
+    mainGuest: 'Melvin Castellanos',
+    familyMembers: ['Melvin Castellanos'],
+    companionAllowed: true
   },
   // ... resto de invitados ...
 ];
