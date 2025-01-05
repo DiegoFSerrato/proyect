@@ -30,7 +30,7 @@ const GuestSearch = () => {
               type="text"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder="Ingresa tu nombre completo"
+              placeholder="Ingresa tu primer o segundo nombre"
               className="w-full px-4 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-emerald-500 text-sm sm:text-base"
             />
             <button
