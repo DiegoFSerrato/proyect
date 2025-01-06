@@ -4,13 +4,13 @@ import LoadingSpinner from './components/LoadingSpinner';
 import SEO from './components/SEO';
 import Section from './components/Section';
 import Hero from './components/Hero';
+import WelcomeMessage from './components/WelcomeMessage';
 import Countdown from './components/Countdown';
 import PhotoCarousel from './components/PhotoCarousel';
 import Locations from './components/Locations';
 import GuestSearch from './components/GuestSearch';
 import MusicPlayer from './components/MusicPlayer';
 
-// Componente de carga para secciones
 const SectionLoader: React.FC = () => (
   <div className="min-h-[400px] flex items-center justify-center">
     <LoadingSpinner />
@@ -24,6 +24,10 @@ function App() {
       <div className="min-h-screen">
         <Section>
           <Hero />
+        </Section>
+
+        <Section className="bg-white py-16">
+          <WelcomeMessage />
         </Section>
 
         <Section className="bg-white">

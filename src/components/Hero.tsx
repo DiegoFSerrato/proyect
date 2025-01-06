@@ -20,9 +20,10 @@ const Hero = () => {
     >
       <div className="flex items-center justify-center min-h-screen bg-black/40 px-4">
         <div className="text-center text-white">
-          <h1 className="font-dancing text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-4 tracking-wider">
+        <h1 className="font-dancing text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-4 tracking-wider">
             Rosa & Efrain
-          </h1>
+        </h1>
+
           <p className="font-cormorant text-lg sm:text-xl md:text-2xl">
             Celebremos nuestro amor
           </p>
