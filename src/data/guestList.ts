@@ -63,10 +63,9 @@ export const guestGroups: GuestGroup[] = [
   },
   {
     id: '10',
-    type: 'individual-plus-one',
+    type: 'individual',
     mainGuest: 'Vanesa Mejia',
-    familyMembers: ['Vanesa Mejia'],
-    companionAllowed: true
+    familyMembers: ['Vanesa Mejia']
   },
   {
     id: '11',
@@ -225,18 +224,6 @@ export const guestGroups: GuestGroup[] = [
     type: 'individual',
     mainGuest: 'Mallerli Acosta',
     familyMembers: ['Mallerli Acosta']
-  },
-  {
-    id: '36',
-    type: 'individual',
-    mainGuest: 'Sandra Perez',
-    familyMembers: ['Sandra Perez']
-  },
-  {
-    id: '37',
-    type: 'individual',
-    mainGuest: 'Victoria Pineda',
-    familyMembers: ['Victoria Pineda']
   },
   {
     id: '38',

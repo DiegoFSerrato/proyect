@@ -13,10 +13,6 @@ const WelcomeMessage = () => {
         <p className="text-xl text-gray-800">
           ¡Nos haría mucha ilusión que estuvieras con nosotros para hacer de este día algo inolvidable!
         </p>
-        <p className="text-xl text-gray-800">
-          <strong>Por favor confirma tu asistencia antes del 20 de febrero</strong>
-        </p>
-        
       </div>
     </div>
   );
