@@ -284,5 +284,39 @@ export const guestGroups: GuestGroup[] = [
     familyMembers: ['Melvin Castellanos'],
     companionAllowed: true
   },
+  {
+    id: '46',
+    type: 'individual-plus-one',
+    mainGuest: 'Manfredo Romero',
+    familyMembers: ['Manfredo Romero'],
+    companionAllowed: true
+  },
+  {
+    id: '47',
+    type: 'individual-plus-one',
+    mainGuest: 'Morena Contreras',
+    familyMembers: ['Morena Contreras'],
+    companionAllowed: true
+  },
+  {
+    id: '48',
+    type: 'individual-plus-one',
+    mainGuest: 'Veronica Castillo',
+    familyMembers: ['Veronica Castillo'],
+    companionAllowed: true
+  },
+  {
+    id: '49',
+    type: 'individual-plus-one',
+    mainGuest: 'Benjamin Alarcon',
+    familyMembers: ['Benjamin Alarcon'],
+    companionAllowed: true
+  },
+  {
+    id: '50',
+    type: 'individual',
+    mainGuest: 'Carlos Ramirez',
+    familyMembers: ['Carlos Ramirez','+3 Acompañantes']
+  },
   // ... resto de invitados ...
 ];
