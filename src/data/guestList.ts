@@ -318,5 +318,11 @@ export const guestGroups: GuestGroup[] = [
     mainGuest: 'Carlos Ramirez',
     familyMembers: ['Carlos Ramirez','+3 Acompañantes']
   },
+  {
+    id: '51',
+    type: 'individual',
+    mainGuest: 'Ivania Aragon',
+    familyMembers: ['Ivania Aragon']
+  },
   // ... resto de invitados ...
 ];
