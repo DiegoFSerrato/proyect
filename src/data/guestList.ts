@@ -301,8 +301,8 @@ export const guestGroups: GuestGroup[] = [
   {
     id: '48',
     type: 'individual-plus-one',
-    mainGuest: 'Veronica Castillo',
-    familyMembers: ['Veronica Castillo'],
+    mainGuest: 'Veronica de Castillo',
+    familyMembers: ['Veronica de Castillo'],
     companionAllowed: true
   },
   {
